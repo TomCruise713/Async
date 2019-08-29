@@ -1,0 +1,10 @@
+H:\dream\代码\Dream\MultipleTask\bin\Debug\MultipleTask.exe.config
+H:\dream\代码\Dream\MultipleTask\bin\Debug\MultipleTask.exe
+H:\dream\代码\Dream\MultipleTask\bin\Debug\MultipleTask.pdb
+H:\dream\代码\Dream\MultipleTask\obj\Debug\MultipleTask.csprojAssemblyReference.cache
+H:\dream\代码\Dream\MultipleTask\obj\Debug\MultipleTask.Form1.resources
+H:\dream\代码\Dream\MultipleTask\obj\Debug\MultipleTask.Properties.Resources.resources
+H:\dream\代码\Dream\MultipleTask\obj\Debug\MultipleTask.csproj.GenerateResource.cache
+H:\dream\代码\Dream\MultipleTask\obj\Debug\MultipleTask.csproj.CoreCompileInputs.cache
+H:\dream\代码\Dream\MultipleTask\obj\Debug\MultipleTask.exe
+H:\dream\代码\Dream\MultipleTask\obj\Debug\MultipleTask.pdb
